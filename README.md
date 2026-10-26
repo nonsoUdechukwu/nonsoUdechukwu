@@ -83,7 +83,7 @@ Building secure, scalable cloud platforms and AI-powered automation across **Azu
 
 ## ✍️ Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Welcome to NonsoTech Insights](https://nonsoudechukwu.github.io/blog/welcome/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on NonsoTech Insights](https://nonsoudechukwu.github.io/blog)
