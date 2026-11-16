@@ -83,7 +83,8 @@ Building secure, scalable cloud platforms and AI-powered automation across **Azu
 
 ## ✍️ Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->- [Securing AKS in 2026: A Modern Security Baseline](https://nonsotech.dev/blog/securing-aks-in-2026/)
+<!-- BLOG-POST-LIST:START -->- [Leaving ingress-nginx on AKS: a GitOps migration to Gateway API on Application Gateway for Containers](https://nonsotech.dev/blog/ingress-nginx-to-agc-gateway-api/)
+- [Securing AKS in 2026: A Modern Security Baseline](https://nonsotech.dev/blog/securing-aks-in-2026/)
 - [Welcome to NonsoTech Insights](https://nonsotech.dev/blog/welcome/)
 <!-- BLOG-POST-LIST:END -->
 
