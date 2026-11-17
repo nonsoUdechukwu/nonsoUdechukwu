@@ -90,19 +90,6 @@ Building secure, scalable cloud platforms and AI-powered automation across **Azu
 
 ➡️ [Read more on NonsoTech Insights](https://nonsoudechukwu.github.io/blog)
 
-## 📊 GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nonsoUdechukwu&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nonsoUdechukwu&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nonsoUdechukwu&hide_border=true&theme=github-dark-blue" />
-    <img height="165" src="https://streak-stats.demolab.com?user=nonsoUdechukwu&hide_border=true&theme=default" alt="GitHub streak" />
-  </picture>
-</p>
-
 <div align="center">
 
 <sub>Thanks for stopping by! ⭐ Feel free to explore my repos or reach out.</sub>
